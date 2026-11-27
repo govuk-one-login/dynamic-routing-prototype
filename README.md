@@ -6,7 +6,7 @@ the user has told us about themselves, such as where they live, which documents 
 and whether they have a smartphone. From those it works out the next step towards a GPG45
 identity profile. Two front ends talk to it over HTTP: a website (`core-front/`) and a CLI (`cli/`).
 
-Inspired by:
+Inspired by Patrick's Blakey initial prototype:
 https://github.com/govuk-one-login/ipv-dynamic-prototype
 
 ## How to run it
